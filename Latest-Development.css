@@ -1,4 +1,4 @@
-.u-section-1 {
+ .u-section-1 {
   background-image: url("images/yyy.jpg");
   background-position: 50% 50%;
 }
@@ -96,7 +96,7 @@
   .u-section-1 .u-repeater-1 {
     grid-template-columns: 100%;
   }
-}.u-section-2 {
+} .u-section-2 {
   background-image: linear-gradient(#3c065e, #333333);
 }
 
