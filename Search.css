@@ -1,0 +1,18 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  margin-bottom: 50px;
+  min-height: 400px;
+  margin-top: 50px;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  height: auto;
+  width: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-custom-html-1 {
+    width: auto;
+  }
+}
